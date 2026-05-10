@@ -15,7 +15,7 @@
 
 ### ⚡ 动态数据 (GitHub 战力卡片)
 <!-- 卡片1：加了随机参数强行破解缓存的基础卡片 -->
-![基础战力](https://github-readme-stats.vercel.app/api?username=MoramnSun&show_icons=true&theme=radical&v=888)
+<!-- ![基础战力](https://github-readme-stats.vercel.app/api?username=MoramnSun&show_icons=true&theme=radical&v=888)-->
 
 <!-- 卡片2：备用神器！展示你连续写代码天数的卡片（这个服务器极其稳定，几乎不会挂） -->
 ![打卡战力](https://github-readme-streak-stats.herokuapp.com/?user=MoramnSun&theme=radical)
