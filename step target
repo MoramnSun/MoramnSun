@@ -1,0 +1,42 @@
+---
+
+
+### 🟢 阶段一：Qt 基础语法与 UI 搬砖
+- [x] 1. Qt 项目结构认知（.pro, .h, .cpp, .ui 的分工）
+- [x] 2. QWidget 基础属性操作（大小、标题、坐标系）
+- [ ] 3. **绝对核心：信号与槽机制（Signal & Slot）**
+- [ ] 4. 三大布局管理器（QHBoxLayout, QVBoxLayout, QGridLayout）
+- [ ] 5. 基础交互控件的使用（QPushButton, QLabel, QLineEdit）
+- [ ] 6. 进阶数据展示控件（QListWidget, QTableWidget, QTreeWidget）
+- [ ] 7. 标准对话框（QMessageBox, QFileDialog）
+- [ ] 8. 自定义控件封装（提升代码复用性）
+
+### 🟡 阶段二：Qt 核心机制与底层交互
+- [ ] 9. Qt 事件循环机制原理（Event Loop）
+- [ ] 10. 重写基础事件（mousePress, keyPress, closeEvent）
+- [ ] 11. 定时器的使用（QTimer 与 timerEvent）
+- [ ] 12. **终极拦截器：事件过滤器（EventFilter）**
+- [ ] 13. 2D 绘图基础（QPainter 画线、矩形、文字）
+
+### 🟠 阶段三：Qt 数据处理与本地持久化
+- [ ] 14. Qt 特有容器与类型转换（QString, QList, QByteArray）
+- [ ] 15. 本地文件读写操作（QFile 与 QTextStream）
+- [ ] 16. INI 配置文件读写（QSettings）
+- [ ] 17. JSON 数据打包与解析（QJsonObject, QJsonDocument）
+- [ ] 18. SQLite 数据库配置与连接（QSqlDatabase）
+- [ ] 19. 数据库增删改查实战（QSqlQuery）
+
+### 🔴 阶段四：决胜大招（并发与通信）
+- [ ] 20. 串口通信实战（QSerialPort - 硬件交互必备）
+- [ ] 21. TCP 客户端开发（QTcpSocket）
+- [ ] 22. TCP 服务端开发（QTcpServer）
+- [ ] 23. **多线程基础（QThread 继承重写 run()）**
+- [ ] 24. **多线程现代写法（moveToThread() 方法）**
+- [ ] 25. 跨线程通信铁律（安全更新主界面 UI）
+
+### 🟣 阶段五：项目实战组装与面试八股
+- [ ] 26. 项目立项与 UI 框架搭建（目标：多通道数据采集器）
+- [ ] 27. 核心业务逻辑接入（底层收发与 UI 绑定）
+- [ ] 28. 数据库接入与多线程性能调优
+- [ ] 29. **Qt 面试专攻 1：** moc 原理、信号槽底层实现
+- [ ] 30. **Qt 面试专攻 2：** Qt 对象树内存管理、事件分发机制
